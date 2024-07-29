@@ -16,7 +16,7 @@ This challenge will evaluate both your coding and communication skills. We value
    - Identify relevant edge cases.
 5. Develop a solution that highlights your skills and strengths.
    - Feel free to add, change, or modify any files in the project.
-   - You may use Google or any other references for Angular/Bootstrap syntax.
+   - You may use Google or any other references.
 6. Describe how you would build a better "Product" for this coding task in SOLUTION.md, including your estimates.
 7. Once satisfied with your solution, submit a link to your forked repository.
 
